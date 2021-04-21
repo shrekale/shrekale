@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shreyas
-- 👀 I’m interested in trying new things and checking them in my repo
-- 🌱 I’m currently learning a lot of stuff, technical or otherwise
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 0 - linkedin.com/in/shreyas-kale
+- 👋  Hi, I’m Shreyas
+- 👀  I’m interested in trying new things and checking them in my repo
+- 🌱  I’m currently learning a lot of stuff, Python, Cloud technologies and Economics mainly
+- 💞️  I’m looking to collaborate on anything interesting
+- 📫  How to reach me - linkedin.com/in/shreyas-kale
