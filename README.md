@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shreyas
+- 👀 I’m interested in trying new things and checking them in my repo
+- 🌱 I’m currently learning a lot of stuff, technical or otherwise
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 0 - linkedin.com/in/shreyas-kale
