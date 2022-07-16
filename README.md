@@ -1,3 +1,2 @@
 - 👋  Hi, I’m Shreyas
-- 📫  Reach me here - linkedin.com/in/shreyas-kale
 - And don't share bullshit with me
