@@ -1,2 +1,2 @@
 - 👋  Hi, I’m Shreyas
-- And don't share bullshit with me
+- I can ride horses. That also means, I know how it smells. Please don't share it with me.
