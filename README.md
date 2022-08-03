@@ -1,3 +1,3 @@
 - 👋  Hi, I’m Shreyas
-- I'm trying to work on non-stupid, interesting, non-ridiculous, useful projects, or may be personal practice of some new technologies I am learning
+- I'm trying to work on non-stupid, non-ridiculous, useful projects or may be personal practice of some new technologies I am learning
 - I ride horses. That also means, I know how it smells. Please don't share it with me.
