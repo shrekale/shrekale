@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shrekale
-- I'm a Software Engineer in banking industry
+- I'm a Software Engineer in the banking industry
 - Don't share stupid shit with me
