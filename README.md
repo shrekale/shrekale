@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shrekale
 - I'm a Software Engineer in the banking industry
-- I'm a pragmatic guy, don't share stupid shit with me
+- I'm a pragmatic guy, don't share stupid stuff with me
